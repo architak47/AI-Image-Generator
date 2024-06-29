@@ -15,6 +15,10 @@ This is a web application that allows users to generate imaginative and visually
 - **Database:** MongoDB
 - **Image Hosting:** Cloudinary
 
+## Video Demo
+Video Demo link: [Click here](https://www.loom.com/share/9e99689f6d2e40d382db207284781781?sid=a4562448-1f55-4093-b5df-75d0ae704852)
+
+
 ## Getting Started
 
 ### Prerequisites
