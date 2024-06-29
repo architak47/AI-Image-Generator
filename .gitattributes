@@ -1,0 +1,18 @@
+    # Ignore files and directories
+    /node_modules/   export-ignore
+    /dist/           export-ignore
+    .env             export-ignore
+
+    # Set text attributes for specific file types
+    *.html           text
+    *.css            text
+    *.js             text
+    *.jsx            text
+    *.json           text
+    *.md             text
+
+    # Set binary attributes for specific file types
+    *.png            binary
+    *.jpg            binary
+    *.gif            binary
+    *.ico            binary
